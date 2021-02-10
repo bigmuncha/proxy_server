@@ -1,3 +1,3 @@
 simple proxy server on boost asio library
 
-more info in russian language in 3.txt
+more info on russian language in 3.txt
